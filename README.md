@@ -102,7 +102,7 @@ The project is architected as a multi-agent system using the **Claude Agent SDK*
 ### Install (Linux / macOS)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/3D_Geomec.git
+git clone https://github.com/peraponf/3D_Geomec.git
 cd 3D_Geomec
 
 # Julia dependencies
@@ -117,7 +117,7 @@ npm install
 ### Install (Windows)
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/3D_Geomec.git
+git clone https://github.com/peraponf/3D_Geomec.git
 cd 3D_Geomec
 
 # Julia dependencies
