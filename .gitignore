@@ -1,0 +1,25 @@
+# Node
+node_modules/
+.next/
+frontend/uploads/
+frontend/results/
+
+# Julia
+julia_io/Manifest.toml
+julia_io/examples/*.msh
+julia_io/examples/*.vtu
+julia_io/examples/*.inp
+julia_io/examples/*.sg
+julia_io/examples/large_partitioned*
+
+# OS
+.DS_Store
+*.swp
+*~
+
+# Logs
+/tmp/
+*.log
+
+# Environment
+.env
